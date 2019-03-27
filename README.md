@@ -1,7 +1,8 @@
-# vue-demo
+# vue-d3-family
 
-> vue-demo
+> vue-d3-family
 
+![效果图](https://github.com/iweisi/vue-d3-family/tree/master/static/image/20190327112239.png)
 ## Build Setup
 
 ``` bash
