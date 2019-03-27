@@ -2,7 +2,10 @@
 
 > vue-d3-family
 
-![效果图](https://github.com/iweisi/vue-d3-family/tree/master/static/image/20190327112239.png)
+**已实现的效果图**
+ <br> 
+  ![效果图1](https://github.com/iweisi/vue-d3-family/blob/master/static/image/20190327112239.png)
+ <br>
 ## Build Setup
 
 ``` bash
